@@ -1,1 +1,1 @@
-prints effective username of the user
+user identity display
