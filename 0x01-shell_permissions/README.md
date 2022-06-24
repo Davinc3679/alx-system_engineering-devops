@@ -1,1 +1,3 @@
-adds execution permission to the owner, the group owner and the other users, to the file hello
+o permission at all
+Group: no permission at all
+Other users: all the permissions
